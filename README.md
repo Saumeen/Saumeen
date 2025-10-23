@@ -19,71 +19,66 @@ I'm a passionate **Full-Stack Software Developer** who loves creating digital so
 
 ## 🛠️ Technical Arsenal
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;Full-Stack+Excellence;Cloud-Native+Solutions" alt="Typing SVG" />
+</div>
+
 ### 🎯 Core Expertise
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <br><b>React.js</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <br><b>Next.js</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <br><b>TypeScript</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <br><b>Node.js</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <br><b>Java & Spring Boot</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-  <br><b>AWS Cloud</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <br><b>PostgreSQL</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <br><b>MongoDB</b>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-  <br><b>Express.js</b>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+</div>
 
 ### 🚀 Specialized Domains
 
 <div align="center">
 
-**🎨 Frontend Magic**  
-*Creating interfaces that convert visitors into customers*
-
-**⚡ Backend Powerhouse**  
-*Building APIs that scale effortlessly*
-
-**🗄️ Database Wizard**  
-*Designing data architectures that perform under pressure*
-
-**☁️ Cloud Expert**  
-*Deploying solutions that auto-scale and stay online 24/7*
-
-**🚀 Modern Stack**  
-*Using cutting-edge tech that keeps you ahead of competitors*
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/Frontend-🎨-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=white" />
+  <br><b>Frontend Magic</b>
+  <br><small>React • Next.js • TypeScript</small>
+  <br><em>Creating interfaces that convert visitors into customers</em>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/Backend-⚡-4ECDC4?style=for-the-badge&labelColor=4ECDC4&color=white" />
+  <br><b>Backend Powerhouse</b>
+  <br><small>Node.js • Express • Java Spring</small>
+  <br><em>Building APIs that scale effortlessly</em>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/Database-🗄️-45B7D1?style=for-the-badge&labelColor=45B7D1&color=white" />
+  <br><b>Database Wizard</b>
+  <br><small>PostgreSQL • MongoDB • Prisma</small>
+  <br><em>Designing data architectures that perform under pressure</em>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/Cloud-☁️-96CEB4?style=for-the-badge&labelColor=96CEB4&color=white" />
+  <br><b>Cloud Expert</b>
+  <br><small>AWS • Lambda • EC2 • S3</small>
+  <br><em>Deploying solutions that auto-scale and stay online 24/7</em>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/Modern-🚀-FECA57?style=for-the-badge&labelColor=FECA57&color=white" />
+  <br><b>Modern Stack</b>
+  <br><small>MERN • JAMstack • Microservices</small>
+  <br><em>Using cutting-edge tech that keeps you ahead of competitors</em>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -91,17 +86,36 @@ I'm a passionate **Full-Stack Software Developer** who loves creating digital so
 
 <div align="center">
 
-| **State Management** | **UI Frameworks** | **APIs & Integration** |
-|:---:|:---:|:---:|
-| Redux • Zustand | Material-UI • Ant Design • Tailwind CSS | GraphQL • RESTful APIs |
+#### 🎨 **Frontend Excellence**
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI" />
+<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-| **DevOps & Infrastructure** | **Real-time & Payments** | **Testing & Quality** |
-|:---:|:---:|:---:|
-| Docker • Kubernetes • CI/CD | WebSockets • Stripe • PayPal | Jest • Cypress • E2E Testing |
+#### ⚡ **Backend & APIs**
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+<img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket" />
 
-| **Architecture Patterns** |
-|:---:|
-| Serverless (Lambda) • Microservices • MERN • JAMstack |
+#### 🐳 **DevOps & Infrastructure**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+
+#### 💳 **Payments & Integration**
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+
+#### 🧪 **Testing & Quality**
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+
+#### 🏗️ **Architecture Patterns**
+<img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=docker&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=white" alt="MERN" />
+<img src="https://img.shields.io/badge/JAMstack-000000?style=flat-square&logo=jamstack&logoColor=white" alt="JAMstack" />
 
 </div>
 
