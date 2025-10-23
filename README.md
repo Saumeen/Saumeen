@@ -1,29 +1,44 @@
-# Hi there, I'm Saumeen Prajapati! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Saumeen+Prajapati+👋;Full-Stack+Developer+💻;Building+the+Future+with+Code+🚀;Cloud-Native+Solutions+☁️;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Next.js;Building+scalable+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saumeen&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saumeen&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Developer** who loves creating digital solutions that make a real impact. With expertise spanning from pixel-perfect frontends to robust backend systems, I specialize in building applications that not only look great but perform exceptionally under pressure.
+<div align="center">
+
+| 🎯 **Mission** | 💡 **Passion** | 🚀 **Vision** |
+|:---:|:---:|:---:|
+| Building scalable web applications that make a real impact | Solving complex problems with elegant, scalable solutions | Leading the future of web development with cutting-edge technology |
+
+</div>
+
+I'm a passionate **Full-Stack Software Developer** who specializes in creating digital solutions that not only look great but perform exceptionally under pressure. With expertise spanning from pixel-perfect frontends to robust backend systems, I'm always eager to tackle new challenges and learn the latest technologies.
 
 - 🔭 **Currently working on** cutting-edge web applications using modern tech stacks
-- 🌱 **Always learning** the latest technologies and best practices in software development
+- 🌱 **Always learning** the latest technologies and best practices in software development  
 - 💡 **Passionate about** solving complex problems with elegant, scalable solutions
 - 🎯 **Focused on** delivering high-quality code that drives business success
+- ⚡ **Fun fact** I can solve a Rubik's cube in under a minute! 🧩
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;Full-Stack+Excellence;Cloud-Native+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Magic+🎨;Backend+Powerhouse+⚡;Database+Wizard+🗄️;Cloud+Expert+☁️;Modern+Stack+🚀" alt="Specializations" />
 </div>
 
-### 🎯 Core Expertise
+### 🎯 Core Technologies
 
 <div align="center">
 
@@ -121,29 +136,56 @@ I'm a passionate **Full-Stack Software Developer** who loves creating digital so
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumeen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumeen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumeen&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumeen&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saumeen/Saumeen/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
 ## 🎯 What I'm Currently Up To
 
-- 🔥 **Building** scalable web applications with modern architecture
-- 📚 **Learning** advanced cloud patterns and microservices optimization
-- 🚀 **Exploring** the latest in AI/ML integration with web applications
-- 💼 **Contributing** to open-source projects and tech communities
+<div align="center">
+
+| 🔥 **Building** | 📚 **Learning** | 🚀 **Exploring** | 💼 **Contributing** |
+|:---:|:---:|:---:|:---:|
+| Scalable web applications with modern architecture | Advanced cloud patterns and microservices optimization | Latest in AI/ML integration with web applications | Open-source projects and tech communities |
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=435&lines=Ready+to+Build+Something+Amazing?;Let's+Connect+and+Create+Together!;Open+to+New+Opportunities+and+Collaborations" alt="Connect Message" />
+</div>
 
 I'm always excited to work on interesting projects and collaborate with fellow developers. Whether you have a startup idea, need technical consultation, or want to discuss the latest in web development – let's connect!
 
@@ -157,9 +199,13 @@ I'm always excited to work on interesting projects and collaborate with fellow d
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saumeen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Saumeen&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Hope+you+enjoyed+the+journey!+🚀;See+you+in+the+code!+💻" alt="Thank You" />
 </div>
