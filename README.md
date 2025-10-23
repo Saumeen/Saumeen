@@ -9,20 +9,16 @@
 ## 🎨 Visual Coding Journey
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Welcome+to+Saumeen's+Code+Universe!+🚀;Full-Stack+Developer+💻;Cloud+Expert+☁️;Problem+Solver+🎯" alt="Welcome Message" />
+</div>
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                    🚀 SAUMEEN'S CODE UNIVERSE 🚀              ║
-    ║                                                              ║
-    ║  💻 Full-Stack Developer  │  ☁️ Cloud Expert  │  🎯 Problem Solver  ║
-    ║                                                              ║
-    ║  ┌─────────────────────────────────────────────────────────┐  ║
-    ║  │  🎯 Mission: Building scalable solutions that matter    │  ║
-    ║  │  💡 Vision: Leading the future of web development      │  ║
-    ║  │  🚀 Passion: Creating digital experiences that wow    │  ║
-    ║  └─────────────────────────────────────────────────────────┘  ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
+### 🎯 Mission & Vision
+
+<div align="center">
+
+| 🎯 **Mission** | 💡 **Vision** | 🚀 **Passion** |
+|:---:|:---:|:---:|
+| Building scalable solutions that matter | Leading the future of web development | Creating digital experiences that wow |
 
 </div>
 
@@ -30,25 +26,23 @@
 
 <div align="center">
 
-```
-🎨 FRONTEND MASTERY
-React.js        ████████████████████ 95% ⚡
-Next.js         ████████████████████ 98% 🚀
-TypeScript      ████████████████████ 92% 💎
-Tailwind CSS    ████████████████████ 88% 🎨
+### 🎨 Frontend Mastery
+- **React.js** ⭐⭐⭐⭐⭐ 95% ⚡ Lightning Fast
+- **Next.js** ⭐⭐⭐⭐⭐ 98% 🚀 Production Ready  
+- **TypeScript** ⭐⭐⭐⭐⭐ 92% 💎 Type Safe
+- **Tailwind CSS** ⭐⭐⭐⭐⭐ 88% 🎨 Beautiful UI
 
-⚡ BACKEND POWER
-Node.js         ████████████████████ 96% 🔥
-Express.js      ████████████████████ 94% ⚡
-Java Spring     ████████████████████ 90% ☕
-PostgreSQL      ████████████████████ 89% 🗄️
+### ⚡ Backend Power
+- **Node.js** ⭐⭐⭐⭐⭐ 96% 🔥 High Performance
+- **Express.js** ⭐⭐⭐⭐⭐ 94% ⚡ API Master
+- **Java Spring** ⭐⭐⭐⭐⭐ 90% ☕ Enterprise Grade
+- **PostgreSQL** ⭐⭐⭐⭐⭐ 89% 🗄️ Data Expert
 
-☁️ CLOUD EXPERTISE
-AWS Services    ████████████████████ 93% ☁️
-Docker          ████████████████████ 87% 🐳
-Kubernetes      ████████████████████ 85% ⚙️
-Microservices   ████████████████████ 91% 🏗️
-```
+### ☁️ Cloud Expertise
+- **AWS Services** ⭐⭐⭐⭐⭐ 93% ☁️ Cloud Native
+- **Docker** ⭐⭐⭐⭐⭐ 87% 🐳 Container Expert
+- **Kubernetes** ⭐⭐⭐⭐⭐ 85% ⚙️ Orchestration
+- **Microservices** ⭐⭐⭐⭐⭐ 91% 🏗️ Architecture
 
 </div>
 
@@ -56,22 +50,19 @@ Microservices   ████████████████████ 91%
 
 <div align="center">
 
+**🎯 Your Journey Through My Profile**
+
 ```
-    🎯 YOUR JOURNEY THROUGH MY PROFILE
-    ════════════════════════════════════════════════════════════════
-    
-    🏠 START HERE
-         │
-         ▼
-    🎨 Frontend Magic ──► ⚡ Backend Power ──► 🗄️ Database Wizard
-         │                      │                      │
-         ▼                      ▼                      ▼
-    ☁️ Cloud Expert ──► 🚀 DevOps Master ──► 🎯 Project Showcase
-         │                      │                      │
-         ▼                      ▼                      ▼
-    📊 GitHub Analytics ──► 🤝 Connect & Collaborate ──► 🎉 Thank You!
-    
-    ════════════════════════════════════════════════════════════════
+🏠 START HERE
+    │
+    ▼
+🎨 Frontend Magic ──► ⚡ Backend Power ──► 🗄️ Database Wizard
+    │                      │                      │
+    ▼                      ▼                      ▼
+☁️ Cloud Expert ──► 🚀 DevOps Master ──► 🎯 Project Showcase
+    │                      │                      │
+    ▼                      ▼                      ▼
+📊 GitHub Analytics ──► 🤝 Connect & Collaborate ──► 🎉 Thank You!
 ```
 
 </div>
@@ -80,23 +71,41 @@ Microservices   ████████████████████ 91%
 
 <div align="center">
 
-```
-🟦 FRONTEND REALM          🟩 BACKEND KINGDOM          🟨 DATABASE EMPIRE
-┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│ 🎨 React.js     │        │ ⚡ Node.js      │        │ 🗄️ PostgreSQL   │
-│ 🚀 Next.js      │        │ 🔥 Express.js   │        │ 🍃 MongoDB      │
-│ 💎 TypeScript   │        │ ☕ Java Spring  │        │ 🔧 Prisma ORM   │
-│ 🎨 Tailwind CSS │        │ 🌐 REST APIs    │        │ 📊 Data Design │
-└─────────────────┘        └─────────────────┘        └─────────────────┘
+### 🟦 Frontend Realm
+- 🎨 React.js - Component Architecture
+- 🚀 Next.js - Full-Stack Framework  
+- 💎 TypeScript - Type Safety
+- 🎨 Tailwind CSS - Utility-First Styling
 
-🟪 CLOUD UNIVERSE          🟧 DEVOPS GALAXY          🟥 INNOVATION ZONE
-┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│ ☁️ AWS Services │        │ 🐳 Docker       │        │ 🤖 AI/ML        │
-│ ⚡ Lambda        │        │ ⚙️ Kubernetes   │        │ 🔬 Research     │
-│ 🏗️ Architecture │        │ 🔄 CI/CD        │        │ 💡 Innovation   │
-│ 📈 Scaling      │        │ 🛠️ Automation  │        │ 🚀 Future Tech   │
-└─────────────────┘        └─────────────────┘        └─────────────────┘
-```
+### 🟩 Backend Kingdom  
+- ⚡ Node.js - JavaScript Runtime
+- 🔥 Express.js - Web Framework
+- ☕ Java Spring - Enterprise Solutions
+- 🌐 REST APIs - Service Architecture
+
+### 🟨 Database Empire
+- 🗄️ PostgreSQL - Relational Database
+- 🍃 MongoDB - Document Database
+- 🔧 Prisma ORM - Database Toolkit
+- 📊 Data Design - Schema Architecture
+
+### 🟪 Cloud Universe
+- ☁️ AWS Services - Cloud Platform
+- ⚡ Lambda - Serverless Functions
+- 🏗️ Architecture - Scalable Design
+- 📈 Scaling - Performance Optimization
+
+### 🟧 DevOps Galaxy
+- 🐳 Docker - Containerization
+- ⚙️ Kubernetes - Orchestration
+- 🔄 CI/CD - Continuous Integration
+- 🛠️ Automation - Process Optimization
+
+### 🟥 Innovation Zone
+- 🤖 AI/ML - Machine Learning
+- 🔬 Research - Technology Exploration
+- 💡 Innovation - Creative Solutions
+- 🚀 Future Tech - Emerging Technologies
 
 </div>
 
@@ -126,68 +135,41 @@ I'm a passionate **Full-Stack Software Developer** who specializes in creating d
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Magic+🎨;Backend+Powerhouse+⚡;Database+Wizard+🗄️;Cloud+Expert+☁️;Modern+Stack+🚀" alt="Specializations" />
 </div>
 
-## 🎨 ASCII Art Tech Stack Visualization
+## 🎨 Tech Stack Visualization
 
 <div align="center">
-
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                    🛠️ TECHNICAL ARSENAL 🛠️                  ║
-    ║                                                              ║
-    ║  🎨 FRONTEND REALM    ⚡ BACKEND KINGDOM    🗄️ DATABASE WORLD  ║
-    ║  ┌─────────────┐     ┌─────────────┐     ┌─────────────┐      ║
-    ║  │ React.js    │     │ Node.js     │     │ PostgreSQL  │      ║
-    ║  │ Next.js     │     │ Express.js  │     │ MongoDB     │      ║
-    ║  │ TypeScript  │     │ Java Spring │     │ Prisma ORM  │      ║
-    ║  │ Tailwind    │     │ REST APIs   │     │ Data Design │      ║
-    ║  └─────────────┘     └─────────────┘     └─────────────┘      ║
-    ║                                                              ║
-    ║  ☁️ CLOUD UNIVERSE    🚀 DEVOPS GALAXY    🎯 INNOVATION ZONE  ║
-    ║  ┌─────────────┐     ┌─────────────┐     ┌─────────────┐      ║
-    ║  │ AWS Services │     │ Docker      │     │ AI/ML       │      ║
-    ║  │ Lambda      │     │ Kubernetes  │     │ Research    │      ║
-    ║  │ EC2/S3      │     │ CI/CD       │     │ Innovation  │      ║
-    ║  │ Microservices│     │ Automation  │     │ Future Tech │      ║
-    ║  └─────────────┘     └─────────────┘     └─────────────┘      ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Explore+My+Tech+Universe!+🎯;Frontend+Magic+🎨;Backend+Power+⚡;Cloud+Mastery+☁️" alt="Tech Universe" />
 </div>
 
-## 🎮 Interactive Tech Experience
+### 🎨 Frontend Realm
+- **React.js** ⭐⭐⭐⭐⭐ 95% ⚡ Lightning Fast
+- **Next.js** ⭐⭐⭐⭐⭐ 98% 🚀 Production Ready
+- **TypeScript** ⭐⭐⭐⭐⭐ 92% 💎 Type Safe
+- **Tailwind CSS** ⭐⭐⭐⭐⭐ 88% 🎨 Beautiful UI
 
-<div align="center">
+### ⚡ Backend Kingdom
+- **Node.js** ⭐⭐⭐⭐⭐ 96% 🔥 High Performance
+- **Express.js** ⭐⭐⭐⭐⭐ 94% ⚡ API Master
+- **Java Spring** ⭐⭐⭐⭐⭐ 90% ☕ Enterprise Grade
+- **PostgreSQL** ⭐⭐⭐⭐⭐ 89% 🗄️ Data Expert
 
-```
-    🎯 EXPLORE MY TECH UNIVERSE
-    ════════════════════════════════════════════════════════════════
-    
-    🎨 Frontend Magic ──────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ React.js     ████████████████████ 95% ⚡ Lightning Fast    │
-    │ Next.js      ████████████████████ 98% 🚀 Production Ready   │
-    │ TypeScript   ████████████████████ 92% 💎 Type Safe         │
-    │ Tailwind CSS ████████████████████ 88% 🎨 Beautiful UI     │
-    └─────────────────────────────────────────────────────────────┘
-    
-    ⚡ Backend Power ────────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ Node.js      ████████████████████ 96% 🔥 High Performance   │
-    │ Express.js   ████████████████████ 94% ⚡ API Master        │
-    │ Java Spring  ████████████████████ 90% ☕ Enterprise Grade  │
-    │ PostgreSQL   ████████████████████ 89% 🗄️ Data Expert      │
-    └─────────────────────────────────────────────────────────────┘
-    
-    ☁️ Cloud Mastery ────────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ AWS Services ████████████████████ 93% ☁️ Cloud Native       │
-    │ Docker       ████████████████████ 87% 🐳 Container Expert  │
-    │ Kubernetes   ████████████████████ 85% ⚙️ Orchestration     │
-    │ Microservices████████████████████ 91% 🏗️ Architecture       │
-    └─────────────────────────────────────────────────────────────┘
-```
+### ☁️ Cloud Universe
+- **AWS Services** ⭐⭐⭐⭐⭐ 93% ☁️ Cloud Native
+- **Docker** ⭐⭐⭐⭐⭐ 87% 🐳 Container Expert
+- **Kubernetes** ⭐⭐⭐⭐⭐ 85% ⚙️ Orchestration
+- **Microservices** ⭐⭐⭐⭐⭐ 91% 🏗️ Architecture
 
-</div>
+### 🚀 DevOps Galaxy
+- **Docker** ⭐⭐⭐⭐⭐ 87% 🐳 Containerization
+- **Kubernetes** ⭐⭐⭐⭐⭐ 85% ⚙️ Orchestration
+- **CI/CD** ⭐⭐⭐⭐⭐ 88% 🔄 Automation
+- **Automation** ⭐⭐⭐⭐⭐ 90% 🛠️ Process Optimization
+
+### 🤖 Innovation Zone
+- **AI/ML** ⭐⭐⭐⭐⭐ 75% 🤖 Machine Learning
+- **Research** ⭐⭐⭐⭐⭐ 80% 🔬 Technology Exploration
+- **Innovation** ⭐⭐⭐⭐⭐ 85% 💡 Creative Solutions
+- **Future Tech** ⭐⭐⭐⭐⭐ 70% 🚀 Emerging Technologies
 
 ### 🎯 Core Technologies
 
@@ -326,68 +308,59 @@ I'm a passionate **Full-Stack Software Developer** who specializes in creating d
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=435&lines=Check+out+my+latest+work!+🚀;Interactive+Project+Showcase+💫;Click+to+explore+each+project+🎯" alt="Projects Guide" />
 </div>
 
-## 🎨 ASCII Art Project Showcase
+## 🎨 Project Showcase
 
 <div align="center">
-
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                    🚀 PROJECT PORTFOLIO 🚀                    ║
-    ║                                                              ║
-    ║  🌐 E-COMMERCE PLATFORM        📊 ANALYTICS DASHBOARD        ║
-    ║  ┌─────────────────────────┐   ┌─────────────────────────┐   ║
-    ║  │ React + Node.js + MongoDB│   │ React + AWS + PostgreSQL│   ║
-    ║  │ 🚀 Live Production       │   │ ✅ Completed Project    │   ║
-    ║  │ 💳 Payment Integration   │   │ 📈 Real-time Analytics  │   ║
-    ║  │ 🛒 Full Shopping Cart    │   │ ☁️ Cloud Infrastructure │   ║
-    ║  └─────────────────────────┘   └─────────────────────────┘   ║
-    ║                                                              ║
-    ║  📋 TASK MANAGEMENT APP       🔐 API GATEWAY SERVICE        ║
-    ║  ┌─────────────────────────┐   ┌─────────────────────────┐   ║
-    ║  │ Next.js + TypeScript    │   │ Node.js + Express + Docker│ ║
-    ║  │ 🔧 In Development       │   │ 🚀 Live Microservices   │   ║
-    ║  │ 👥 Team Collaboration   │   │ 🔒 Authentication Layer  │   ║
-    ║  │ ⚡ Real-time Updates     │   │ 🐳 Containerized Deploy │   ║
-    ║  └─────────────────────────┘   └─────────────────────────┘   ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=435&lines=Check+out+my+latest+work!+🚀;Interactive+Project+Showcase+💫;Explore+my+projects+🎯" alt="Projects Guide" />
 </div>
 
-## 🎮 Interactive Project Explorer
+### 🌐 Web Applications
+- **E-Commerce Platform** ⭐⭐⭐⭐⭐ 100% 🚀 Live
+  - React + Node.js + MongoDB
+  - 💳 Payment Integration
+  - 🛒 Full Shopping Cart
 
-<div align="center">
+- **Task Management App** ⭐⭐⭐⭐⭐ 85% 🔧 Building
+  - Next.js + TypeScript
+  - 👥 Team Collaboration
+  - ⚡ Real-time Updates
 
-```
-    🎯 PROJECT UNIVERSE EXPLORATION
-    ════════════════════════════════════════════════════════════════
-    
-    🌐 WEB APPLICATIONS ──────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ E-Commerce Platform  ████████████████████ 100% 🚀 Live     │
-    │ Task Management App  ████████████████████  85% 🔧 Building │
-    │ Analytics Dashboard  ████████████████████ 100% ✅ Complete  │
-    │ Portfolio Website    ████████████████████  90% 🎨 Designing│
-    └─────────────────────────────────────────────────────────────┘
-    
-    ☁️ CLOUD SOLUTIONS ───────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ API Gateway Service  ████████████████████ 100% 🚀 Deployed  │
-    │ Microservices Arch   ████████████████████  95% 🏗️ Building │
-    │ Serverless Functions ████████████████████  88% ⚡ Developing│
-    │ Container Orchestr.  ████████████████████  92% 🐳 Scaling   │
-    └─────────────────────────────────────────────────────────────┘
-    
-    🤖 AI/ML PROJECTS ───────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ Smart Analytics    ████████████████████  75% 🔬 Research   │
-    │ Chatbot System     ████████████████████  80% 🤖 Training   │
-    │ Recommendation Eng ████████████████████  70% 📊 Learning   │
-    │ Computer Vision    ████████████████████  65% 👁️ Exploring  │
-    └─────────────────────────────────────────────────────────────┘
-```
+- **Analytics Dashboard** ⭐⭐⭐⭐⭐ 100% ✅ Complete
+  - React + AWS + PostgreSQL
+  - 📈 Real-time Analytics
+  - ☁️ Cloud Infrastructure
 
-</div>
+### ☁️ Cloud Solutions
+- **API Gateway Service** ⭐⭐⭐⭐⭐ 100% 🚀 Deployed
+  - Node.js + Express + Docker
+  - 🔒 Authentication Layer
+  - 🐳 Containerized Deploy
+
+- **Microservices Architecture** ⭐⭐⭐⭐⭐ 95% 🏗️ Building
+  - Distributed System Design
+  - 🏗️ Scalable Architecture
+  - 🔄 Service Communication
+
+- **Serverless Functions** ⭐⭐⭐⭐⭐ 88% ⚡ Developing
+  - AWS Lambda
+  - ⚡ Event-Driven Architecture
+  - 📊 Performance Monitoring
+
+### 🤖 AI/ML Projects
+- **Smart Analytics** ⭐⭐⭐⭐⭐ 75% 🔬 Research
+  - Machine Learning Models
+  - 📊 Data Analysis
+  - 🔬 Algorithm Development
+
+- **Chatbot System** ⭐⭐⭐⭐⭐ 80% 🤖 Training
+  - Natural Language Processing
+  - 🤖 Conversational AI
+  - 📚 Learning Algorithms
+
+- **Recommendation Engine** ⭐⭐⭐⭐⭐ 70% 📊 Learning
+  - Collaborative Filtering
+  - 📈 User Behavior Analysis
+  - 🎯 Personalized Suggestions
 
 ---
 
@@ -409,29 +382,23 @@ I'm a passionate **Full-Stack Software Developer** who specializes in creating d
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Let's+make+this+interactive!+🎯;Choose+your+adventure+below+🚀;What+would+you+like+to+know?+💫" alt="Interactive Experience" />
 </div>
 
-## 🎨 ASCII Art Interactive Menu
+## 🎨 Interactive Menu
 
 <div align="center">
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                    🎮 INTERACTIVE MENU 🎮                    ║
-    ║                                                              ║
-    ║  🤔 WHAT BRINGS YOU HERE?                                    ║
-    ║  ┌─────────────────────────────────────────────────────────┐ ║
-    ║  │ 👨‍💼 Looking for a developer?  → [Hire Me] 🚀            │ ║
-    ║  │ 🤝 Want to collaborate?      → [Let's Work Together] ⚡  │ ║
-    ║  │ 🔍 Just exploring?           → [Check My Work] 🎯       │ ║
-    ║  │ 📚 Learning from profiles?   → [View My Skills] 🛠️     │ ║
-    ║  └─────────────────────────────────────────────────────────┘ ║
-    ║                                                              ║
-    ║  🎯 EXPLORE MY EXPERTISE                                     ║
-    ║  ┌─────────────────────────────────────────────────────────┐ ║
-    ║  │ 🎨 Frontend Magic    ⚡ Backend Power    🗄️ Database    │ ║
-    ║  │ ☁️ Cloud Solutions  🚀 DevOps Master    🤖 AI/ML        │ ║
-    ║  └─────────────────────────────────────────────────────────┘ ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
+### 🤔 What Brings You Here?
+
+| 👨‍💼 **Looking for a developer?** | 🚀 [Hire Me](#-lets-connect--collaborate) |
+|:---:|:---:|
+| 🤝 **Want to collaborate?** | ⚡ [Let's Work Together](#-lets-connect--collaborate) |
+| 🔍 **Just exploring?** | 🎯 [Check My Work](#-featured-projects) |
+| 📚 **Learning from profiles?** | 🛠️ [View My Skills](#-technical-arsenal) |
+
+### 🎯 Explore My Expertise
+
+| 🎨 **Frontend Magic** | ⚡ **Backend Power** | 🗄️ **Database** |
+|:---:|:---:|:---:|
+| ☁️ **Cloud Solutions** | 🚀 **DevOps Master** | 🤖 **AI/ML** |
 
 </div>
 
@@ -439,31 +406,22 @@ I'm a passionate **Full-Stack Software Developer** who specializes in creating d
 
 <div align="center">
 
-```
-    🎯 MY CODING JOURNEY THIS YEAR
-    ════════════════════════════════════════════════════════════════
-    
-    📅 JANUARY ─────────────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ React.js Projects    ████████████████████ 100% 🚀 Complete  │
-    │ Node.js APIs         ████████████████████  95% 🔧 Building  │
-    │ Database Design      ████████████████████  90% 📊 Learning│
-    └─────────────────────────────────────────────────────────────┘
-    
-    📅 FEBRUARY ────────────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ Next.js Applications ████████████████████ 100% ✅ Deployed │
-    │ TypeScript Mastery  ████████████████████  98% 💎 Advanced │
-    │ Cloud Architecture  ████████████████████  85% ☁️ Scaling  │
-    └─────────────────────────────────────────────────────────────┘
-    
-    📅 MARCH ───────────────────────────────────────────────────────
-    ┌─────────────────────────────────────────────────────────────┐
-    │ Microservices       ████████████████████  92% 🏗️ Building  │
-    │ Docker Containers   ████████████████████  88% 🐳 Learning  │
-    │ AI/ML Integration   ████████████████████  75% 🤖 Exploring│
-    └─────────────────────────────────────────────────────────────┘
-```
+### 🎯 My Coding Journey This Year
+
+#### 📅 January
+- **React.js Projects** ⭐⭐⭐⭐⭐ 100% 🚀 Complete
+- **Node.js APIs** ⭐⭐⭐⭐⭐ 95% 🔧 Building
+- **Database Design** ⭐⭐⭐⭐⭐ 90% 📊 Learning
+
+#### 📅 February
+- **Next.js Applications** ⭐⭐⭐⭐⭐ 100% ✅ Deployed
+- **TypeScript Mastery** ⭐⭐⭐⭐⭐ 98% 💎 Advanced
+- **Cloud Architecture** ⭐⭐⭐⭐⭐ 85% ☁️ Scaling
+
+#### 📅 March
+- **Microservices** ⭐⭐⭐⭐⭐ 92% 🏗️ Building
+- **Docker Containers** ⭐⭐⭐⭐⭐ 88% 🐳 Learning
+- **AI/ML Integration** ⭐⭐⭐⭐⭐ 75% 🤖 Exploring
 
 </div>
 
@@ -471,34 +429,43 @@ I'm a passionate **Full-Stack Software Developer** who specializes in creating d
 
 <div align="center">
 
-```
-    🌟 WELCOME TO MY TECH UNIVERSE 🌟
-    ════════════════════════════════════════════════════════════════
-    
-    🎨 FRONTEND GALAXY          ⚡ BACKEND CONSTELLATION
-    ┌─────────────────────┐    ┌─────────────────────┐
-    │ 🌟 React.js         │    │ ⚡ Node.js          │
-    │ 🚀 Next.js          │    │ 🔥 Express.js       │
-    │ 💎 TypeScript       │    │ ☕ Java Spring       │
-    │ 🎨 Tailwind CSS     │    │ 🌐 REST APIs        │
-    └─────────────────────┘    └─────────────────────┘
-    
-    🗄️ DATABASE NEBULA         ☁️ CLOUD COSMOS
-    ┌─────────────────────┐    ┌─────────────────────┐
-    │ 🗄️ PostgreSQL       │    │ ☁️ AWS Services      │
-    │ 🍃 MongoDB          │    │ ⚡ Lambda Functions  │
-    │ 🔧 Prisma ORM       │    │ 🏗️ Microservices   │
-    │ 📊 Data Design      │    │ 🐳 Docker Containers│
-    └─────────────────────┘    └─────────────────────┘
-    
-    🚀 DEVOPS DIMENSION         🤖 AI/ML REALM
-    ┌─────────────────────┐    ┌─────────────────────┐
-    │ 🐳 Docker           │    │ 🤖 Machine Learning │
-    │ ⚙️ Kubernetes       │    │ 🔬 Deep Learning    │
-    │ 🔄 CI/CD Pipelines  │    │ 📊 Data Science    │
-    │ 🛠️ Automation       │    │ 🧠 Neural Networks  │
-    └─────────────────────┘    └─────────────────────┘
-```
+### 🌟 Welcome to My Tech Universe 🌟
+
+#### 🎨 Frontend Galaxy
+- 🌟 React.js - Component Architecture
+- 🚀 Next.js - Full-Stack Framework
+- 💎 TypeScript - Type Safety
+- 🎨 Tailwind CSS - Utility-First Styling
+
+#### ⚡ Backend Constellation
+- ⚡ Node.js - JavaScript Runtime
+- 🔥 Express.js - Web Framework
+- ☕ Java Spring - Enterprise Solutions
+- 🌐 REST APIs - Service Architecture
+
+#### 🗄️ Database Nebula
+- 🗄️ PostgreSQL - Relational Database
+- 🍃 MongoDB - Document Database
+- 🔧 Prisma ORM - Database Toolkit
+- 📊 Data Design - Schema Architecture
+
+#### ☁️ Cloud Cosmos
+- ☁️ AWS Services - Cloud Platform
+- ⚡ Lambda Functions - Serverless
+- 🏗️ Microservices - Scalable Design
+- 🐳 Docker Containers - Containerization
+
+#### 🚀 DevOps Dimension
+- 🐳 Docker - Containerization
+- ⚙️ Kubernetes - Orchestration
+- 🔄 CI/CD Pipelines - Automation
+- 🛠️ Automation - Process Optimization
+
+#### 🤖 AI/ML Realm
+- 🤖 Machine Learning - Algorithm Development
+- 🔬 Deep Learning - Neural Networks
+- 📊 Data Science - Analytics
+- 🧠 Neural Networks - AI Models
 
 </div>
 
